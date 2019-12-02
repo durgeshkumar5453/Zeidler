@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125271" started-at="2019-12-01T22:15:36Z" finished-at="2019-12-01T22:17:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125271" started-at="2019-12-01T22:15:36Z" finished-at="2019-12-01T22:17:42Z">
+      <class name="com.zeidler.Zeidler">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.zeidler.Zeidler@1774679]" name="setUp" is-config="true" duration-ms="18635" started-at="2019-12-02T03:45:36Z" finished-at="2019-12-02T03:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTimber()[pri:1, instance:com.zeidler.Zeidler@1774679]" name="loginTimber" duration-ms="12654" started-at="2019-12-02T03:45:55Z" finished-at="2019-12-02T03:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTimber -->
+        <test-method status="PASS" signature="clickOnFiles()[pri:2, instance:com.zeidler.Zeidler@1774679]" name="clickOnFiles" duration-ms="2003" started-at="2019-12-02T03:46:08Z" finished-at="2019-12-02T03:46:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnFiles -->
+        <test-method status="PASS" signature="clickOnAddImages()[pri:3, instance:com.zeidler.Zeidler@1774679]" name="clickOnAddImages" duration-ms="1478" started-at="2019-12-02T03:46:10Z" finished-at="2019-12-02T03:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAddImages -->
+        <test-method status="PASS" signature="uploadFile()[pri:4, instance:com.zeidler.Zeidler@1774679]" name="uploadFile" duration-ms="68170" started-at="2019-12-02T03:46:12Z" finished-at="2019-12-02T03:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadFile -->
+        <test-method status="PASS" signature="editImages()[pri:5, instance:com.zeidler.Zeidler@1774679]" name="editImages" duration-ms="7268" started-at="2019-12-02T03:47:20Z" finished-at="2019-12-02T03:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editImages -->
+        <test-method status="PASS" signature="deleteImages()[pri:6, instance:com.zeidler.Zeidler@1774679]" name="deleteImages" duration-ms="14562" started-at="2019-12-02T03:47:27Z" finished-at="2019-12-02T03:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteImages -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.zeidler.Zeidler@1774679]" name="closeBrowser" is-config="true" duration-ms="193" started-at="2019-12-02T03:47:42Z" finished-at="2019-12-02T03:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.zeidler.Zeidler -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
